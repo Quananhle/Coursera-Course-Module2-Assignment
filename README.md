@@ -1,8 +1,8 @@
 <head>
-  <title>Coursera-Course-FrontEndDev--Assignments</title>
+  <title id="top">Coursera-Course-FrontEndDev--Assignments</title>
 </head>
 <body>
-  <h1 id="top">###HTML, CSS, JavaScript for Web Developers ####Johns Hopkins University </h1>
+  <h1>###HTML, CSS, JavaScript for Web Developers ####Johns Hopkins University </h1>
 
   <p>
     <div>This repository contains my solutions to the Module - 2, 3, 4 Coding Assignments for the course HTML, CSS, JavaScript for Web Developers by Johns Hopkins University on Coursera. 
