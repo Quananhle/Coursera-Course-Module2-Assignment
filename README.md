@@ -1,8 +1,6 @@
-<html>
-  <head>
-    <meta charset='utf-8'>
-    <title>Coursera-Course-FrontEndDev--Assignments</title>
-  </head>
+<head>
+  <title>Coursera-Course-FrontEndDev--Assignments</title>
+</head>
 <body>
   <h1 id="top">###HTML, CSS, JavaScript for Web Developers ####Johns Hopkins University </h1>
 
