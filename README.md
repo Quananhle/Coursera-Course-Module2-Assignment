@@ -3,10 +3,10 @@ Coursera-Course-FrontEndDev--Assignments
 
 <div>This repository contains my solutions to the Module - 2, 3, 4 Coding Assignments for the course HTML, CSS, JavaScript for Web Developers by Johns Hopkins University on Coursera. </div>
 <div>Assignment Links: </div>
-- <a href="https://docs.google.com/document/d/1SJp2oy2vccfEgcIVc6qmx1No1atGzBGr0vsPbxxqi_0/edit#" target="_blank" title="Coursera Course Module 2 Assignment">[Module 2 Assignment]</a>
-- [Module 3 Assignment]
-- [Module 4 Assignment]
-- [Module 5 Assignment]
+<div>- <a href="https://docs.google.com/document/d/1SJp2oy2vccfEgcIVc6qmx1No1atGzBGr0vsPbxxqi_0/edit#" target="_blank" title="Coursera Course Module 2 Assignment">[Module 2 Assignment]</a></div>
+<div>- [Module 3 Assignment]</div>
+<div>- [Module 4 Assignment]</div>
+<div>- [Module 5 Assignment]</div>
 <div>Mockup illustrations are present in the Assignment documents. </div>
 <div>Solution Links: </div>
 
