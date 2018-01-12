@@ -10,7 +10,7 @@ Coursera-Course-FrontEndDev--Assignments
 <div>Mockup illustrations are present in the Assignment documents. </div>
 <div>Solution Links: </div>
 
-<div>Module 2 Solution </div>
-<div>Module 3 Solution </div>
-<div>Module 4 Solution </div>
-<div>Module 5 Solution </div>
+<div>- <a href="https://quananhle.github.io/Coursera-Course4-FrontEndDev-Assignment/Module%202%20Solution/index.html" target="_blank" title="Coursera Module 2 Solution">Module 2 Solution</a> </div>
+<div>-Module 3 Solution </div>
+<div>-Module 4 Solution </div>
+<div>-Module 5 Solution </div>
