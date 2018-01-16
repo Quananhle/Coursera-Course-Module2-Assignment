@@ -21,5 +21,5 @@
       <div>- <a href="https://quananhle.github.io/Coursera-Course4-FrontEndDev-Assignment/Module%202%20Solution/index.html" target="_blank" title="Coursera Module 2 Solution">Module 2 Solution</a> 
         <div>-Module 3 Solution 
           <div>-Module 4 Solution 
-            <div>-Module 5 Solution </ul>
+            <div>-Module 5 Solution 
       </div>
