@@ -19,7 +19,7 @@
     <div>Solution Links: 
     <ul>
       <div>- <a href="https://quananhle.github.io/Coursera-Course4-FrontEndDev-Assignment/Module%202%20Solution/index.html" target="_blank" title="Coursera Module 2 Solution">Module 2 Solution</a> 
-        <div>- <a href="https://github.com/Quananhle/Coursera-Course4-FrontEndDev-Assignment/blob/master/Module%203%20Solution/index.html" target="_blank" title="Coursera Module 3 Solution">Module 3 Solution</a>
+        <div>- <a href="https://quananhle.github.io/Coursera-Course4-FrontEndDev-Assignment/Module%203%20Solution/index.html" target="_blank" title="Coursera Module 3 Solution">Module 3 Solution</a>
           <div>-Module 4 Solution 
             <div>-Module 5 Solution 
       </div>
