@@ -11,7 +11,7 @@
   <section>
     <ol>
       <div> <a href="https://docs.google.com/document/d/1SJp2oy2vccfEgcIVc6qmx1No1atGzBGr0vsPbxxqi_0/edit#" target="_blank" title="Coursera Course Module 2 Assignment">[Module 2 Assignment]</a>
-        <div>[Module 3 Assignment]
+        <div> <a href="https://docs.google.com/document/d/1ALqgpYKp5n8WxRcRtImggIwa8nNDiLg98Xcq37ETHcI/edit?usp=sharing" target="_blank" title="Coursera Course Module 3 Assignment">[Module 3 Assignment]</a>
           <div>[Module 4 Assignment]
             <div>[Module 5 Assignment]
        </div>
