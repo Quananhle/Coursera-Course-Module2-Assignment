@@ -21,5 +21,5 @@
       <div>- <a href="https://quananhle.github.io/Coursera-Course4-FrontEndDev-Assignment/Module%202%20Solution/index.html" target="_blank" title="Coursera Module 2 Solution">Module 2 Solution</a> 
         <div>- <a href="https://quananhle.github.io/Coursera-Course4-FrontEndDev-Assignment/Module%203%20Solution/index.html" target="_blank" title="Coursera Module 3 Solution">Module 3 Solution</a>
           <div>- <a href="https://quananhle.github.io/Coursera-Course4-FrontEndDev-Assignment/Module-4-Solution/index.html" target="_blank" title="Coursera Module 4 Solution">Module 4 Solution </a>
-            <div>- <a href="https://quananhle.github.io/Coursera-Course4-FrontEndDev-Assignment/Module5Solution/index.html" target="_blank" title="Coursera Module 5 Solution">Module 5 Solution </a>
+            <div>- <a href="https://quananhle.github.io/Coursera-Course4-FrontEndDev-Assignment/Module%205%20Solution/index.html" target="_blank" title="Coursera Module 5 Solution">Module 5 Solution </a>
       </div>
