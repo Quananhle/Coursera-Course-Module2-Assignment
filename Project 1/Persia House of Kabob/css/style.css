@@ -13,7 +13,7 @@ body {
 }
 
 #logo-img {
-	background-image: url('/Users/ashleyle/coursera-test/logo.jpg');
+	background-image: url('Coursera-Course4-FrontEndDev-Assignment/Project 1/Persia House of Kabob/images/logo.jpg');
 	width: 150px;
 	height: 120px;
 	margin: 10px 15px 10px 0;
@@ -138,11 +138,11 @@ body {
 }
 
 #menu-tile {
-	background: url('/Users/ashleyle/coursera-test/paradise3.jpg') no-repeat;
+	background: url('Coursera-Course4-FrontEndDev-Assignment/Project 1/Persia House of Kabob/images/paradise3.jpg') no-repeat;
 	background-position: center;
 }
 #specials-tile {
-	background: url('/Users/ashleyle/coursera-test/348s.jpg') no-repeat;
+	background: url('Coursera-Course4-FrontEndDev-Assignment/Project 1/Persia House of Kabob/images/348s.jpg') no-repeat;
 	background-position: center;
 }
 
@@ -274,7 +274,7 @@ h3.menu-item-title {
  @media (min-width: 768px and (max-width: 991px) {
  	/* Home Page */
  	.container .jumbotron {
- 		background: url('/Users/ashleyle/coursera-test/persia-house-of-kabob.jpg') no-repeat;
+ 		background: url('Coursera-Course4-FrontEndDev-Assignment/Project 1/Persia House of Kabob/images/name.jpg') no-repeat;
  		height: 432px;
  	}
  	/* End Home Page */
