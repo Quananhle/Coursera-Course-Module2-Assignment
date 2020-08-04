@@ -2,7 +2,9 @@
   <h1>Coursera-Course-FrontEndDev--Assignments</h1>
 
 <body>
-  <h2>### HTML, CSS, JavaScript for Web Developers #### Johns Hopkins University </h2>
+  <h2>
+    ### HTML, CSS, JavaScript for Web Developers 
+    #### Johns Hopkins University </h2>
 
   <p>
     <div>This repository contains my solutions to the Module - 2, 3, 4 Coding Assignments for the course HTML, CSS, JavaScript for Web Developers by Johns Hopkins University on Coursera. 
