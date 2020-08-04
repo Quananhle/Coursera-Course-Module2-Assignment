@@ -3,7 +3,7 @@
 
 <body>
   <h2>
-    HTML, CSS, JavaScript for Web Developers 
+    HTML, CSS, JavaScript for Web Developers <br>
     Johns Hopkins University </h2>
 
   <p>
