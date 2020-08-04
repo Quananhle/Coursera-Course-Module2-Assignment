@@ -1,3 +1,5 @@
+![alt text](Coursera TDR3BQYQ2AT5.pdf "Certification")
+
 <head>
   <h1>Coursera-Course-FrontEndDev--Assignments</h1>
 
@@ -26,5 +28,4 @@
             <div>- <a href="https://quananhle.github.io/Coursera-Course4-FrontEndDev-Assignment/Module%205%20Solution/index.html" target="_blank" title="Coursera Module 5 Solution">Module 5 Solution </a>
       </div>
 
-<nl>
-![alt text](Coursera TDR3BQYQ2AT5.pdf "Certification")
+
