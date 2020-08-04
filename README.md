@@ -28,5 +28,6 @@
             <div>- <a href="https://quananhle.github.io/Front-End-Dev/Module%205%20Solution/index.html" target="_blank" title="Coursera Module 5 Solution">Module 5 Solution </a>
       </div>
 
-
-![Alt text](David-Chu s-China-Bistro-page-001.jpg?raw=true "David-Chu's-China-Bistro")
+<img>
+![Alt text](David-Chu-China-Bistro.jpg?raw=true "David-Chu's-China-Bistro")
+</img>
