@@ -29,5 +29,5 @@
       </div>
 
 <img>
-![Alt text](David-Chu-China-Bistro.jpg?raw=true "David-Chu's-China-Bistro")
+David-Chu-China-Bistro.jpg
 </img>
