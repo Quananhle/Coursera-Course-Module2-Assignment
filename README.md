@@ -1,5 +1,5 @@
 ![Alt text](TDR3BQYQ2AT5.jpg?raw=true "Certification")
-
+![Alt text](David-Chu-China-Bistro.jpg?raw=true "David-Chu's-China-Bistro")
 <head>
   <h1>Coursera-Course-FrontEndDev--Assignments</h1>
 
@@ -27,7 +27,3 @@
           <div>- <a href="https://quananhle.github.io/Front-End-Dev/Module-4-Solution/index.html" target="_blank" title="Coursera Module 4 Solution">Module 4 Solution </a>
             <div>- <a href="https://quananhle.github.io/Front-End-Dev/Module%205%20Solution/index.html" target="_blank" title="Coursera Module 5 Solution">Module 5 Solution </a>
       </div>
-
-<img>
-David-Chu-China-Bistro.jpg
-</img>
